@@ -6,3 +6,21 @@
     text-decoration: none;
     list-style: none;
 }
+
+.content{
+    position: relative;
+    left: 50%;
+    top: 50%;
+    width: 90%;
+    max-width: 900px;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #000000;
+
+}
+.content h1{
+    font-size: 65px;
+    font-weight: 600;
+    margin-bottom: 40px;
+
+}
