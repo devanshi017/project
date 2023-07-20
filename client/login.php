@@ -1,6 +1,6 @@
 <?php
     session_start();
-
+// diya chu me
     include("database.php");
 
     if($_SERVER['REQUEST_METHOD'] =="POST")
