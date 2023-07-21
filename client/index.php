@@ -1,6 +1,5 @@
 <?php
     include('database.php');
-    //sakshi
 ?>
 <html>
 <head>
@@ -8,7 +7,7 @@
 </head>
 <body>
 
-    
+     
         <a href="logout.php" class="btn btn-warning">Logout</a>
 
     <div class="content">
