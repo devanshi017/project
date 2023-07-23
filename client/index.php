@@ -6,7 +6,10 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-
+<div>
+<?php include'header.php';?>
+        <!--header-->
+</div>
      
         <a href="logout.php" class="btn btn-warning">Logout</a>
 
