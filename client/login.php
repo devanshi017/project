@@ -12,7 +12,7 @@
         {
             $query = "select * from user where email = '$email' limit 1";
             $result = mysqli_query($conn, $query);
-
+//wer3
             if($result)
             {
                 if($result && mysqli_num_rows($result) > 0);

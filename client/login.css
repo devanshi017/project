@@ -94,12 +94,12 @@ button{
     align-items: center;
     justify-content: center;
     padding-left: 0;
-    background-color: #0f0f0f;
+    background-color: #5c2e2e;
     font-size: 15px;
     color: #fff;
 }
 button:hover{
-    background: purple;
+    background: #dda2a2;
 }
 @media(max-width: 767px){
    .inner{
