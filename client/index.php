@@ -6,14 +6,16 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-
+<video autoplay loop muted plays-inline class="back-video">
+        <source src= "2.mp4" type="video/mp4">
+</video>
      
-        <a href="logout.php" class="btn btn-warning">Logout</a>
-
+        
+ 
     <div class="content">
-    <h1>Destination Wedding</h1>
+    
+            <h1>Destination Wedding</h1>
     </div>
-</div>
 
 </body>
 </html>
