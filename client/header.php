@@ -1,35 +1,45 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
 
+    <!-- font awesome cdn link  -->
     <link href="https://cdn.jsdelivr.net/npm/remixicon@3.4.0/fonts/remixicon.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
-    <link rel="stylesheet" type="text/css" href="header.css">
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="header.css">
+
 </head>
 <body>
-    <header>
-       <a href="#" class="logo"><i class="ri-home-heart-fill"></i>
-       <span>logo</span></a> 
-       <ul class="navbar">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">About us</a></li>
-        <li><a href="#">Contact us</a></li> 
-       </ul>
 
-       <div class="main">
+<!-- header section starts  -->
+
+<header>
+
+    
+    <a href="#" class="logo">logo<span>.</span></a>
+
+    <nav class="navbar">
+    <a href="#">Home</a>
+        <a href="#">Services</a>
+        <a href="#">About us</a>
+        <a href="#">Contact us</a>
+    </nav>
+    <div class="main">
         <a href="#" class="user"><i class="ri-user-fill"></i>Sign In</a>
         <a href="#">Register</a>
         <div class="bx bx-menu" id="menu-icon"></div>
        </div>
 
-    </header>
 
-    <script type="text/javascript" src="js/script.js"></script>
+
+
+</header>
+
+
 </body>
 </html>
