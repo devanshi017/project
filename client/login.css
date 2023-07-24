@@ -99,7 +99,7 @@ button{
     color: #fff;
 }
 button:hover{
-    background: purple;
+    background: #5c2e2e;
 }
 @media(max-width: 767px){
    .inner{
