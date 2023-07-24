@@ -17,10 +17,7 @@
 <body>
 
 <!-- header section starts  -->
-
-<header>
-
-    
+<header>  
     <a href="#" class="logo">logo<span>.</span></a>
 
     <nav class="navbar">
@@ -34,12 +31,6 @@
         <a href="#">Register</a>
         <div class="bx bx-menu" id="menu-icon"></div>
        </div>
-
-
-
-
 </header>
-
-
 </body>
 </html>
