@@ -15,8 +15,7 @@
     <div class="container">
         <h1>Welcome to Dashboard</h1>
 <div> -->
-    <div>
-    <a href="logout.php" class="btn btn-warning">Logout</a>
+ 
 
 <video autoplay loop muted plays-inline class="back-video">
         <source src= "2.mp4" type="video/mp4">
