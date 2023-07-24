@@ -2,10 +2,15 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+:root{
+    --bg-color: #dda2a2;
+    --text-color: #ffefef;
+    --main-color: #5c2e2e;
 }
 body{
-     background-color: #f2f2f2;
+     background-color: var(--text-color);
 }
 .heading{
     width: 90%;
@@ -16,13 +21,11 @@ body{
     text-align: center;
     margin: 20px auto;
 }
-}
 .heading h1{
     font-size: 50px;
-    color: #000;
+    color: #333;
     margin-bottom: 25px;
     position:relative;
-}
 }
 .heading h1::after{
     content: "";
@@ -31,7 +34,7 @@ body{
     height: 4px;
     display: block;
     margin: 0 auto;
-    background-color: #4caf50;
+    background-color: #333;
 }
 .heading p{
     font: size 18px; 
@@ -79,7 +82,7 @@ body{
 .about-content .read-more{
     display: inline-block;
     padding: 10px 20px;
-    background-color: rgba(84, 204, 68, 0.826);
+    background-color: var(--main-color);
     color: #fff;
     font-size: 19px;
     text-decoration: none;
@@ -88,7 +91,7 @@ body{
     transition: 0.3s ease;
 }
 .about-content .read-more:hover{
-    background-color: #3e8e41;
+    background-color: var(--bg-color);
 }
 @media screen and (max-width: 768px) {
     .heading{
