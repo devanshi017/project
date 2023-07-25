@@ -19,9 +19,8 @@
 <!-- header section starts  -->
 <header>  
     
-
     <nav class="navbar">
-    <img src="image/Amore.png" class="logo">
+    <a href="#" class="logo">Amore</a>
         <a href="#">Home</a>
         <a href="#">Services</a>
         <a href="#">About us</a>
