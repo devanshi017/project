@@ -8,6 +8,11 @@
     
   </head>
   <body>
+
+<div>
+<?php include'header.php';?>
+        <!--header-->
+</div>
      
     <div class="heading">
       <h1>
