@@ -9,30 +9,14 @@
 
     <title>Document</title>
     <link rel="stylesheet" href="contactus.css">
-    <link rel="stylesheet" href="header.css">
+    
 </head>
 <body>
-<header>
+<div>
+<?php include'header.php';?>
+        <!--header-->
+</div>
 
-    
-<a href="#" class="logo">logo<span>.</span></a>
-
-<nav class="navbar">
-<a href="#">Home</a>
-    <a href="#">Services</a>
-    <a href="#">About us</a>
-    <a href="#">Contact us</a>
-</nav>
-<div class="main">
-    <a href="#" class="user"><i class="ri-user-fill"></i>Sign In</a>
-    <a href="#">Register</a>
-    <div class="bx bx-menu" id="menu-icon"></div>
-   </div>
-
-
-
-
-</header>
     <div class="contact-form">
         <h1>ContactUs Form</Form></h1>
     </div>
