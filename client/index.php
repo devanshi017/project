@@ -6,7 +6,6 @@
         <meta http-equiv="x-UA-Compatible" content="ie=edge">
         <link rel="stylesheet" href="style.css">
         
-       
 </head>
 <body>
 <div>
