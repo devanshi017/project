@@ -18,11 +18,14 @@
 
 <!-- header section starts  -->
 <header>  
+    <a href="#" class="logo">Amore<span>.</span></a>
+
     
     <nav class="navbar">
-    <a href="#" class="logo">Amore</a>
+    
         <a href="#">Home</a>
         <a href="#">Services</a>
+        <a href="#">cards</a>
         <a href="#">About us</a>
         <a href="#">Contact us</a>
     </nav>
