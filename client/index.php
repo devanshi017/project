@@ -21,8 +21,6 @@
         <source src= "2.mp4" type="video/mp4">
 </video>
      
-        
- 
     <div class="content">
     
             <h1>Destination Wedding</h1>
