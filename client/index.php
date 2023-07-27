@@ -6,7 +6,7 @@
         <meta http-equiv="x-UA-Compatible" content="ie=edge">
         <link rel="stylesheet" href="style.css">
         
-        <title> mnmn</title>
+        <title> wedding</title>
 </head>
 <body>
 <div>
