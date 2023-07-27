@@ -93,11 +93,14 @@
     flex-wrap: wrap;
     align-items: center;
 }
-
+.services-col:hover{
+    transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+    transform: rotate(5deg);
+}
 .services-col {
     height: 22rem;
     color: #5c2e2e;
-    background-color: #ae8484;
+    background-color: #d9b38c;
     background-position: center;
     background-size: cover;
     border-radius: 15px;
