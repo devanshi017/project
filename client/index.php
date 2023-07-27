@@ -13,9 +13,9 @@
 <?php include'header.php';?>
         <!--header-->
 </div>
- 
-   <div class="slider">
-    <div class="load">
+ <!-- banner -->
+<div class="slider">
+<div class="load">
 </div>
 <div class="content">
 <div class="principal">
@@ -24,6 +24,7 @@
 </div>
 </div>
 </div>
+<!-- ---------------------services--------------- -->
 <section class="service" id="service">
         <div class="title">
             <h1>Services</h1>
