@@ -80,3 +80,62 @@
     
     
 }
+
+.service h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 2%;
+}
+
+.services-row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.services-col {
+    height: 22rem;
+    color: #5c2e2e;
+    background-color: #d9b38c;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+    flex: 1 1 25rem;
+    padding: 1.2rem;
+    margin: 1.5rem;
+    text-align: center;
+    
+}
+
+.services-col i {
+    padding: 2.2rem;
+    border: none;
+    background: aliceblue;
+    border-radius: 5rem;
+    font-size: 2.8rem;
+    align-items: center;
+    text-align: center;
+      justify-content: center;
+    
+
+}
+
+.services-col h2 {
+    padding: 1rem 0;
+    font-size: 2rem;
+    color: #000;
+    text-align: center;
+}
+
+.services-col p {
+    font-size: 1.2rem;
+    color: #000;
+    text-align: center;
+}
+
+@media (max-width:767px) {
+    .service {
+        margin-bottom: 30rem;
+    }
+}
