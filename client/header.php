@@ -26,8 +26,8 @@
         <a href="#">Home</a>
         <a href="#">Services</a>
         <a href="#">cards</a>
-        <a href="#">About us</a>
-        <a href="#">Contact us</a>
+        <a href="aboutus.php">About us</a>
+        <a href="contactus.php">Contact us</a>
     </nav>
     <div class="main">
         <a href="#" class="user"><i class="ri-user-fill"></i>Sign In</a>

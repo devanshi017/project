@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+
 :root{
     --bg-color: #dda2a2;
     --text-color: #ffefef;
@@ -105,7 +106,7 @@ body{
         margin-bottom: 0px;
     }
     .container{
-        padding: :0px;
+        padding: 0px;
     }
     .about{
        padding: 20px;

@@ -6,16 +6,15 @@
         <meta http-equiv="x-UA-Compatible" content="ie=edge">
         <link rel="stylesheet" href="style.css">
         
-        <title> wedding</title>
+        <title> mnmn</title>
 </head>
 <body>
 <div>
 <?php include'header.php';?>
         <!--header-->
 </div>
- <!-- banner -->
-<div class="slider">
-<div class="load">
+    <div class="slider">
+    <div class="load">
 </div>
 <div class="content">
 <div class="principal">
@@ -24,7 +23,6 @@
 </div>
 </div>
 </div>
-<!-- ---------------------services--------------- -->
 <section class="service" id="service">
         <div class="title">
             <h1>Services</h1>
