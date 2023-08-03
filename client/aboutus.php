@@ -1,20 +1,19 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title> About Us </title>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link rel="stylesheet" type="text/css" href="aboutus.css">
-    
-  </head>
-  <body>
-
+<html lang="en">
+    <headd>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scald=1.0">
+        <meta http-equiv="x-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="aboutus.css">
+        
+        <title> mnmn</title>
+</head>
+<body>
 <div>
 <?php include'header.php';?>
         <!--header-->
-</div>
-     
-    <div class="heading">
+</div> 
+<div class="heading">
       <h1>
         About Us
       </h1>
