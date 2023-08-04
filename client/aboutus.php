@@ -6,7 +6,7 @@
         <meta http-equiv="x-UA-Compatible" content="ie=edge">
         <link rel="stylesheet" href="aboutus.css">
         
-        <title> mnmn</title>
+        <title> about</title>
 </head>
 <body>
 <div>

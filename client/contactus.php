@@ -16,7 +16,7 @@
 <?php include'header.php';?>
         <!--header-->
 </div>
-
+<div class="box">
     <div class="contact-form">
         <h1>ContactUs Form</Form></h1>
     </div>
@@ -28,6 +28,7 @@
            <input type="text" name="mobile"  class="form-control" placeholder="Enter Mobile Number"> <br>
            <input type="submit" class="form-control submit" value="submit" >
        </form>
+    </div>
     </div>
 </body>
 </html>
