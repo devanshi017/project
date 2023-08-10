@@ -14,7 +14,7 @@
        
         if(!empty($email) && !empty($password) && !is_numeric($email))
         {
-            $query = "insert into user (firstname, lastname, username, email, password, confirmpassword) values ('$firstname', '$lastname', '$username','$email','$password','$confirmpassword')";
+            $query = "INSERT INTO user (firstname, lastname, username, email, password, confirmpassword) VALUES ('$firstname', '$lastname', '$username','$email','$password','$confirmpassword')";
             $result=  mysqli_query($conn, $query);
             if (mysqli_num_rows($result)===1){
                 $row = mysqli_fetch_assoc($result);

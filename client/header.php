@@ -20,15 +20,25 @@
 <header>  
     <a href="#" class="logo">Amore<span>.</span></a>
 
-    
     <nav class="navbar">
-    
-        <a href="#">Home</a>
-        <a href="#">Services</a>
-        <a href="#">cards</a>
-        <a href="aboutus.php">About us</a>
-        <a href="contactus.php">Contact us</a>
-    </nav>
+        <ul>
+        
+        <li><a href="#">Home</a></li>
+        <li><a href="#">cards</a></li>
+        <li><a href="#">Venue</a>
+            <ul>
+            <li><a href="#">Gujarat</a></li>
+            <li><a href="diu.php">Rajasthan</a></li>
+            <li><a href="#">Goa</a></li>
+            <li><a href="#">HimachalPradesh</a></li>
+            <li><a href="#">Kerala</a></li>
+            </ul>
+        </li>
+        <li><a href="#">About us</a></li>
+        <li><a href="#">Contact us</a></li>
+        </ul>
+     </nav>
+
     <div class="main">
         <a href="#" class="user"><i class="ri-user-fill"></i>Sign In</a>
         <a href="#">Register</a>
