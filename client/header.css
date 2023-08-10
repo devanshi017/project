@@ -29,18 +29,66 @@ header .logo{
     font-size: 3rem;
     color:#ffefef;
     font-weight: bolder;
+    padding-left:  0%;
 }
-header .logo span{
-    color:var(--pink);
-}
-header .navbar a{
+
+/* header .navbar a{
     font-size: 2rem;
     padding:0 1.5rem;
     color:#ffefef;
 }
 header .navbar a:hover{
     color:#dda2a2;
+} */
+header .navbar ul{
+    list-style: none;
 }
+header .navbar ul li{
+    position: relative;
+    float: left;
+}
+header .navbar ul li a{
+    font-size: 20px;
+    padding: 0 1.5rem;
+    color:#ffefef;
+    display: block;
+}
+header .navbar ul li a:hover{
+    background:#5c2e2e;
+    color:#dda2a2;
+}
+
+header .navbar ul li ul{
+    position: absolute;
+    left: 0;
+    width: 200px;
+    background: #5c2e2e;
+    display: none;
+}
+header .navbar ul li ul li{
+    width: 100%;
+    border-top: 1px solid #ffffff;
+    /* margin-top:7px;
+    margin-bottom: 7px; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+header .navbar ul li ul li ul{
+    left: 200px;
+    top: 0;
+}
+header .navbar ul li:focus-within > ul,
+header .navbar ul li:hover > ul{
+    display: initial;
+}
+
+@media(max-width:991px){
+header{
+    padding: 20px;
+}
+}
+/*   */
 .main{
     display: flex;
     align-items: center;
