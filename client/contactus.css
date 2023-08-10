@@ -7,24 +7,17 @@
 *{
     padding: 0px ;
     margin: 0px;
-    box-sizing: border-box;
     font-family:sans-serif ;
 }
 
 body{
-    margin: 20px;
+    margin: 0;
     padding: 0;
     background-color:#ffefef;
     background-size: cover;
     background-position: center;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-}
-.box{
-    min-height: 40vh;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 .contact-form{

@@ -29,6 +29,5 @@
            <input type="submit" class="form-control submit" value="submit" >
        </form>
     </div>
-    </div>
 </body>
 </html>
