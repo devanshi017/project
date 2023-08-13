@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+/* Banner */
 .load{
     animation: slide 2s;
 
@@ -81,10 +82,12 @@
     
 }
 
-.service h1{
+/* service */
+.service h3{
     text-align: center;
     font-size: 40px;
-    margin-top: 2%;
+    margin-top: 5%;
+    color: #5c2e2e;
 }
 
 .services-row {
@@ -92,6 +95,7 @@
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
+    
 }
 .services-col:hover{
     transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
@@ -141,4 +145,72 @@
     .service {
         margin-bottom: 30rem;
     }
+}
+
+/* trending places */
+
+h3{
+	color: #5c2e2e;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5%;
+}
+
+.box{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.card{
+	overflow: hidden;
+	background: #ffefef;
+	color: #000000;
+	text-align: center;
+	width: 290px;
+	height: 400px;
+	padding: 2rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	border-radius: 10px;
+	margin: 2rem;
+}
+
+.card .title, .card .price{
+	font-size: 19px;
+}
+.card .star{
+    color: #000;
+    font-size: 10px;
+}
+.card .star .checked{
+    color: orange;
+}
+.card:hover {
+	box-shadow: 5px 15px 25px #eeeeee;
+}
+
+.card img {
+	height: 100%;
+	width: 100%;
+}
+
+.card .btn:link{
+	color: #ececec;
+	display: inline-block;
+	text-decoration: none;
+	background-color: #5c2e2e;
+	padding: 1.2rem 3rem;
+	border-radius: 1rem;
+	margin-top: 1rem;
+	font-size: 14px;
+	transition: all 0.2s;
+}
+
+.card .btn:hover{
+	transform: scale(1.1);
+    background-color: #dda2a2;
 }

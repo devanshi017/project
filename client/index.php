@@ -9,12 +9,14 @@
         <title>index</title>
 </head>
 <body>
+  <!--header-->
 <div>
-<?php include'header.php';?>
-        <!--header-->
+<?php include'header.php';?>       
 </div>
-    <div class="slider">
-    <div class="load">
+
+<!-- Banner -->
+<div class="slider">
+<div class="load">
 </div>
 <div class="content">
 <div class="principal">
@@ -23,9 +25,11 @@
 </div>
 </div>
 </div>
+
+<!-- service -->
 <section class="service" id="service">
         <div class="title">
-            <h1>Services</h1>
+            <h3>Services</h3>
         </div>
         <div class="services-row">
             <div class="services-col">
@@ -71,5 +75,75 @@
         </div>
     </section>
 
+    <!-- trending place -->
+
+<section class="products">
+		<h3>Our Trending Destinations</h3>
+		<div class="box">
+			<div class="card">
+				<img src="image/login.jpg">
+				<div class="info">
+					<h4 class="title">Saputara</h4>
+					<div class="star">
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star"></i>
+          </div>
+					<a class="btn" href="#">Read More</a>
+				</div>
+			</div>
+
+      <div class="box">
+			<div class="card">
+				<img src="image/login.jpg">
+				<div class="info">
+					<h4 class="title">Saputara</h4>
+					<div class="star">
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star-half checked"></i>
+          </div>
+					<a class="btn" href="#">Read More</a>
+				</div>
+			</div>
+
+      <div class="box">
+			<div class="card">
+				<img src="image/login.jpg">
+				<div class="info">
+					<h4 class="title">Saputara</h4>
+					<div class="star">
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+          </div>
+					<a class="btn" href="#">Read More</a>
+				</div>
+			</div>
+
+      <div class="box">
+			<div class="card">
+				<img src="image/login.jpg">
+				<div class="info">
+					<h4 class="title">Saputara</h4>
+					<div class="star">
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star checked"></i>
+              <i class="fa fa-star-half checked"></i>
+          </div>
+					<a class="btn" href="#">Read More</a>
+				</div>
+			</div>
+		
+		</div>
+	</section>
 </body>
 </html>
