@@ -23,8 +23,8 @@
     <nav class="navbar">
         <ul>
         
-        <li><a href="#">Home</a></li>
-        <li><a href="#">cards</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="card.php">cards</a></li>
         <li><a href="#">Venue</a>
             <ul>
             <li><a href="#">Gujarat</a></li>
@@ -34,8 +34,8 @@
             <li><a href="#">Kerala</a></li>
             </ul>
         </li>
-        <li><a href="#">About us</a></li>
-        <li><a href="#">Contact us</a></li>
+        <li><a href="aboutus.php">About us</a></li>
+        <li><a href="contactus.php">Contact us</a></li>
         </ul>
      </nav>
 

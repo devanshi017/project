@@ -145,5 +145,12 @@
 		
 		</div>
 	</section>
+
+    <!-- footer  -->
+
+<div>
+    <?php include'footer.php';?>       
+</div>
+
 </body>
 </html>

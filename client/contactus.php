@@ -29,5 +29,11 @@
            <input type="submit" class="form-control submit" value="submit" >
        </form>
     </div>
+
+     <!-- footer  -->
+
+<div>
+    <?php include'footer.php';?>       
+</div>
 </body>
 </html>
