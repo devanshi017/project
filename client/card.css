@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: arial;
+    transition: 0.5s;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #ffefef;
+    padding-top: 50px;
+}
+h1{
+    color: #5c2e2e;
+    font-size: 45px;
+    margin-top: 10px;
+}
+.row{
+    padding-top: 50px;
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

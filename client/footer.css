@@ -33,7 +33,7 @@ ul{
     transition: all 0.3s ease;
 }
 .footer-col p:hover{
-	color: #ffefef;
+	color: #ffffff;
 	padding-left: 8px;
 }
 .footer-col h4::before{
@@ -52,7 +52,7 @@ ul{
 .footer-col ul li a{
 	font-size: 16px;
 	text-transform: capitalize;
-	color: #ffefef;
+	color: #ffffff;
 	text-decoration: none;
 	font-weight: 300;
 	color: #bbbbbb;
@@ -60,7 +60,7 @@ ul{
 	transition: all 0.3s ease;
 }
 .footer-col ul li a:hover{
-	color: #ffefef;
+	color: #ffffff;
 	padding-left: 8px;
 }
 .footer-col .social-links a{

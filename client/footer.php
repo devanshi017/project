@@ -12,7 +12,7 @@
     <div class="container">
         <div class="row">
         <div class="footer-col">
-            <h4>Amore</h4>
+            <h4>Amor</h4>
             <p>
             We Are a Team of Highly Creative Individuals Driven by Creativity, Passion, Art. 
             Wedding Websites Choose the Right Wedding Venue for Your Dream Wedding.
