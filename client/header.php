@@ -27,11 +27,11 @@
         <li><a href="card.php">cards</a></li>
         <li><a href="#">Venue</a>
             <ul>
-            <li><a href="#">Gujarat</a></li>
-            <li><a href="diu.php">Rajasthan</a></li>
-            <li><a href="#">Goa</a></li>
-            <li><a href="#">HimachalPradesh</a></li>
-            <li><a href="#">Kerala</a></li>
+            <li><a href="guj.php">Gujarat</a></li>
+            <li><a href="rajas.php">Rajasthan</a></li>
+            <li><a href="goa.php">Goa</a></li>
+            <li><a href="himachal.php">HimachalPradesh</a></li>
+            <li><a href="kerala.php">Kerala</a></li>
             </ul>
         </li>
         <li><a href="aboutus.php">About us</a></li>
