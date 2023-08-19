@@ -4,9 +4,18 @@
         <link rel="stylesheet" href="card.css">
 </head>
 <body>
+    <!--header-->
+<div>
+<?php 
+  include'header.php';
+?>     
+</div>
+
+<!-- cards -->
+
     <h1>Our Invitation Cards</h1>
     
-    <div class="row">
+    <div class="card">
         <div class="box">
             <img src="image/card1.webp">
         </div>
@@ -18,7 +27,7 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="card1">
         <div class="box">
             <img src="image/card4.webp">
         </div>
@@ -30,5 +39,13 @@
         </div>
     </div>
     
+
+     <!-- footer  -->
+
+<div>
+    <?php include'footer.php';?>       
+</div>
+
+
 </body>
 </html>
