@@ -272,19 +272,19 @@
 
 
         <a href="image/bik1.jpg" class="image Bikaner">
-            <img src="image/b1.jpg" alt="">
+            <img src="image/bik1.jpg" alt="">
         </a>
         <a href="image/bik2.jpg" class="image Bikaner">
-            <img src="image/b2.jpg" alt="">
+            <img src="image/bik2.jpg" alt="">
         </a>
         <a href="image/bik3.jpg" class="image Bikaner">
-            <img src="image/b3.jpg" alt="">
+            <img src="image/bik3.jpg" alt="">
         </a>
         <a href="image/bik4.jpg" class="image Bikaner">
-            <img src="image/b4.jpg" alt="">
+            <img src="image/bik4.jpg" alt="">
         </a>
         <a href="image/bik5.jpg" class="image Bikaner">
-            <img src="image/b5.jpg" alt="">
+            <img src="image/bik5.jpg" alt="">
         </a>
         
     </div>
