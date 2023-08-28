@@ -36,7 +36,7 @@
         </li>
         <li><a href="aboutus.php">About us</a></li>
         <li><a href="contactus.php">Contact us</a></li>
-        </ul>
+         </ul>
      </nav>
 
     <div class="main">
